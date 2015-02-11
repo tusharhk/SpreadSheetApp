@@ -1,0 +1,8 @@
+/.classpath
+/.project
+/.settings
+/.DS_Store
+
+/target/
+src/main/webapp/VAADIN/themes/mytheme/styles.scss.cache
+
