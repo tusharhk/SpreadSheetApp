@@ -59,7 +59,7 @@ public class MyUI extends UI {
     }
 
     private void initSpreadsheet() {
-        File sampleFile = new File("sample.xlsx");
+        File sampleFile = new File("Simple Invoice.xlsx");
         try {
             spreadsheet = new Spreadsheet(sampleFile);
         } catch (IOException e) {
