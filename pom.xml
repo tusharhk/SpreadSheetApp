@@ -10,7 +10,7 @@
 	<name>spreadsheet-tutorial</name>
 
 	<properties>
-		<vaadin.version>7.5.2</vaadin.version>
+		<vaadin.version>7.5.5</vaadin.version>
 		<vaadin.plugin.version>${vaadin.version}</vaadin.plugin.version>
 		<jetty.plugin.version>9.2.3.v20140905</jetty.plugin.version>
 		<project.source.version>1.7</project.source.version>
@@ -72,7 +72,7 @@
 		<dependency>
 			<groupId>com.vaadin.addon</groupId>
 			<artifactId>vaadin-spreadsheet</artifactId>
-			<version>1.1.0.rc1</version>
+			<version>1.1.0</version>
 		</dependency>
 	</dependencies>
 
